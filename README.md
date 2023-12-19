@@ -1,6 +1,6 @@
 # Weather ts
 
-Демо [Create React App](https://melodic-vacherin-6b4017.netlify.app/).
+Демо [Ссылка](https://melodic-vacherin-6b4017.netlify.app/).
 
 ## React.js, Typescript, SCSS
 
